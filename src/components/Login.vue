@@ -49,12 +49,12 @@ export default {
 <style scoped>
 
   .content-login {
-    width: 800px;
-    padding-left: 500px;
+    width: 300px;
+    margin-left: 510px;
   }
 
   .span-form {
-    padding-right: 1000px;
+    float: left;
   }
 
   .box{
